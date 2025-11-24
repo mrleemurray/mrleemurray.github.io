@@ -7,8 +7,8 @@ category: work
 tags: [Product Design, Hardware, Arduino, Health]
 image: /images/the-alarming-clock/cover.png
 featured: false
-completedAt: 2024-01-01
-duration: 2 weeks
+completedAt: 2013-01-01
+duration: 12 months
 ---
 # The Alarming Clock
 
