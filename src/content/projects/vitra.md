@@ -1,18 +1,16 @@
 ---
 id: vitra
 title: Vitra Design Museum
-subtitle: Commissioned for the Alvar Aalto exhibition at the Vitra Museum, Basel, we created a mobile app to help visitors learn more about the exhibits by tapp...
-description: Commissioned for the Alvar Aalto exhibition at the Vitra Museum, Basel, we created a mobile app to help visitors learn more about the exhibits by tapp...
+subtitle: Companion app for the Alvar Aalto exhibition at the Vitra Museum, Basel.
+description: Companion app for the Alvar Aalto exhibition at the Vitra Museum, Basel.
 category: work
-tags: [Python, Raspberry Pi, Mobile, AI, Design, SPYSCAPE, Google, Intel]
+tags: [Python, Raspberry Pi, Mobile, Museum, NFC]
 image: /images/vitra/cover.png
 featured: false
-completedAt: 2024-01-01
+completedAt: 2012-12-01
 duration: 2 weeks
 ---
 # Vitra Design Museum
-
-Vitra Design Museum
 
 Commissioned for the Alvar Aalto exhibition at the Vitra Museum, Basel, we created a mobile app to help visitors learn more about the exhibits by tapping on NFC tags next to the items. To continually improve the visitor experience, analytics from every device is recorded & relayed back to the cloud via a purpose built 3G router.
 
@@ -21,9 +19,6 @@ By creating a simple app, containing additional information about the exhibits i
 The technology helped track the visitors’ interaction and as a result, a greater understanding was gained of the their behaviours, which could be utilised in the design of upcoming exhibitions.
 
 ⚡ Powered by Raspberry Pi, Python
-
-## Gallery
-
 
 ![21_Lumia@_Vitra_Museum.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510932347850-30EY8K5MX1VIF2F62CRI/21_Lumia%40_Vitra_Museum.jpg)
 

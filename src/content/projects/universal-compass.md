@@ -4,34 +4,21 @@ title: Universal Compass
 subtitle: A device that shows you where you want to go.
 description: A device that shows you where you want to go.
 category: work
-tags: [Arduino, Mobile, AI, Design, SPYSCAPE, Google, Intel]
+tags: [Arduino, Mobile, Incubator]
 image: /images/universal-compass/cover.png
 featured: false
-completedAt: 2024-01-01
+completedAt: 2012-01-01
 duration: 2 weeks
 ---
 # Universal Compass
 
-universal compass
+A companion device that shows you where you want to go.
 
-A device that shows you where you want to go.
+An Android app & bluetooth device with in-built compass that allows users to set a destination & is shown what general direction it is in. Primarily intended for on-foot navigation, to encourage exploration around cities while maintaining a sense of direction.
 
-An Android app & bluetooth device with in-built compass that allows users to set a destination & is shown what direction it is in. Primarily intended for on-foot navigation, to encourage exploration around cities while maintaining a sense of direction.
-
-💡 Patent applied December 2012 - link
-
-here
-
-⚡ Powered by
-
-Arduino
-
-, Bluetooth,
-
-Android
-
-## Gallery
-
+- Patent **[applied](https://www.google.co.uk/patents/US20150331081)** December 2012
+- **[Arduino](https://www.arduino.cc)**
+- **[Android](https://developer.android.com/studio)**
 
 ![compass_clip.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511526149223-8L1F97T2PW74GQS0CDH7/compass_clip.gif)
 
@@ -44,6 +31,3 @@ Android
 ![IMG_0056.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540838362656-60JAOJNTNE3V5UXJUYCE/IMG_0056.jpg)
 
 ![IMG_0078.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540838451915-8T17E0RCDDVM19HATG4U/IMG_0078.jpg)
-- **[here](https://www.google.co.uk/patents/US20150331081)**
-- **[Arduino](https://www.arduino.cc)**
-- **[Android](https://developer.android.com/studio)**

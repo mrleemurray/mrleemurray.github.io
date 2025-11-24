@@ -4,11 +4,11 @@ title: Wearable gestures
 subtitle: Exploring & understanding wearable based wrist gestures.
 description: Exploring & understanding wearable based wrist gestures.
 category: work
-tags: [Arduino, 3D Printing, Hardware, AI, IoT, Design, Prototype, SPYSCAPE, Google, Intel]
+tags: [Arduino, 3D Printing, Hardware, Wearables]
 image: /images/wearable-gestures/cover.png
 featured: false
-completedAt: 2024-01-01
-duration: 2 weeks
+completedAt: 2014-12-01
+duration: 2 months
 ---
 # Wearable gestures
 
@@ -18,28 +18,13 @@ Exploring & understanding wearable based wrist gestures.
 
 A wearable prototype platform to understand the mechanics of gestures, interpreting data from on-board sensors & develop UX use cases.
 
-⚡ Powered by
+## Made with
 
-Arduino
-
-Processing
-
-, Windows Phone 8, C#.
-
-🔧 CAD created in
-
-SolidWorks
-
-, PCB created in
-
-EagleCAD
-
-, circuit board manufactured by
-
-DirtyPCBs
-
-## Gallery
-
+- **[Arduino](https://www.arduino.cc)**
+- **[Processing](https://processing.org)**
+- **[SolidWorks](https://www.solidworks.com)**
+- **[EagleCAD](https://www.autodesk.co.uk/products/eagle/free-download)**
+- **[DirtyPCBs](https://dirtypcbs.com/store/pcbs)**
 
 ![IMG_2355.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511543229275-7VRBL0YUAJB1UU785BH3/IMG_2355.JPG)
 
@@ -62,8 +47,3 @@ DirtyPCBs
 ![IMG_1740.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540846112311-6AO50W27XFEDIN40XQW3/IMG_1740.jpg)
 
 ![IMG_2336.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540846495888-3BBSWMXBEBEWMQAD4WEU/IMG_2336.JPG)
-- **[Arduino](https://www.arduino.cc)**
-- **[Processing](https://processing.org)**
-- **[SolidWorks](https://www.solidworks.com)**
-- **[EagleCAD](https://www.autodesk.co.uk/products/eagle/free-download)**
-- **[DirtyPCBs](https://dirtypcbs.com/store/pcbs)**

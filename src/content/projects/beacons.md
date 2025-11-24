@@ -1,8 +1,8 @@
 ---
 id: beacons
 title: Beacons
-subtitle: EXTENDING LIFESPAN OF BLUETOOTH LOW ENERGY BEACONS THOUGH HARDWARE HACKING
-description: EXTENDING LIFESPAN OF BLUETOOTH LOW ENERGY BEACONS THOUGH HARDWARE HACKING
+subtitle: Extending the lifespan of Bluetooth Low Energy Beacons though hardware hacking
+description: Extending the lifespan of Bluetooth Low Energy Beacons though hardware hacking
 category: work
 tags: [Hardware, Bluetooth]
 image: /images/beacons/cover.png

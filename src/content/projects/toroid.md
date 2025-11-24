@@ -1,23 +1,16 @@
 ---
 id: toroid
 title: Toroid
-category: work
-tags: [AI]
+category: Experiments
+tags: [P5.js, Creative Coding]
 image: /images/toroid/cover.png
 featured: false
-completedAt: 2024-01-01
-duration: 2 weeks
+completedAt: 2023-01-01
+duration: 1 hour
 ---
 # Toroid
 
-Toroid
-
-A P5.js sketch.
-
-## Gallery
-
-
-![experiment_cover.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1739882650922-CPTB857Y3K4E31FPWRKA/experiment_cover.png)
+A quick P5.js sketch.
 
 ![experiment_cover.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1739882797903-WNGTD81HG0H5DZ40A3UB/experiment_cover.png)
 
