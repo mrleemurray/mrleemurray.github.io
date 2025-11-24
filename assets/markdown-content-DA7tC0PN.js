@@ -988,7 +988,7 @@ Photo credit - Scott Frances for SPYSCAPE
 ![Untitled_Panorama6.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532878687773-6K5WOI6IRW5M4XAUSXVQ/Untitled_Panorama6.jpg)
 
 ![IMG_0712.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532878737281-ABL9KW9HSQGGHZNWLEN9/IMG_0712.jpg)
-`,_=`---
+`,C=`---
 id: keyshot
 title: Keyshot
 subtitle: Experiments with light & textures in Keyshot.
@@ -1008,7 +1008,7 @@ Experiments with light & textures in Keyshot during a training course.
 ![IMG_2778.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540836739560-429VI1N8TVYSJ19ER9P1/IMG_2778.jpg)
 
 ![IMG_2779.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540836768590-EY4JS2G754LUWGGWWRXF/IMG_2779.jpg)
-`,C=`---
+`,_=`---
 id: light-painting
 title: Light Painting
 subtitle: Experiments with code, persistence of vision & long exposure photography.
@@ -1035,25 +1035,17 @@ Experiments with code, persistence of vision & long exposure photography.
 `,j=`---
 id: light
 title: Light
-subtitle: 60 MINUTE BUILD OF AN ADJUSTABLE LIGHT
-description: 60 MINUTE BUILD OF AN ADJUSTABLE LIGHT
-category: work
-tags: [Arduino, AI]
+subtitle: 60 minute build of an adjustable light
+description: 60 minute build of an adjustable light
+category: experiments
+tags: [Arduino, Neopixels]
 image: /images/light/cover.jpg
 featured: false
-completedAt: 2024-01-01
-duration: 2 weeks
+completedAt: 2015-01-01
+duration: 1 day
 ---
-# Light
 
-LIGHT
-
-60 MINUTE BUILD OF AN ADJUSTABLE LIGHT
-
-⚡ Powered by Arduino, Neopixels
-
-## Gallery
-
+60 minute build of an adjustable light, powered by Arduino & Neopixels.
 
 ![IMG_9097.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540837957774-0OV5AODCVIDWB71GOWML/IMG_9097.jpg)
 
@@ -1066,29 +1058,22 @@ LIGHT
 ![IMG_9100.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540838212940-EEWG191PANJL26BVTLZJ/IMG_9100.jpg)
 `,D=`---
 id: magic-wand
-title: Magic Wand
-subtitle: A system to help visitors plan & navigate a theme park.
-description: A system to help visitors plan & navigate a theme park.
-category: work
-tags: [Arduino, 3D Printing, AI, Design, SPYSCAPE, Google, Intel]
+title: Theme Park Wand
+subtitle: A device & system to help visitors navigate a theme park.
+description: A device & system to help visitors navigate a theme park.
+category: experiments
+tags: [Arduino, C, Bluetooth, C#, Windows Phone 8, CAD]
 image: /images/magic-wand/cover.jpg
 featured: false
-completedAt: 2024-01-01
-duration: 2 weeks
+completedAt: 2014-01-01
+duration: 3 days
 ---
-# Magic Wand
 
-magic wand
-
-A system to help visitors plan & navigate a theme park.
+A device & system to help visitors navigate a theme park.
 
 A concept for adding delight to navigating theme parks; the user taps their wand on the map to where they want to go & the wand then directs them to their destination, notifying them of any special events on the way.
 
-**Technology:** Arduino, C, Bluetooth, Windows Phone 8, C#
-
-**Manufacturing:** CAD created in Catia
-
-## Gallery
+CAD created in Catia
 
 
 ![wand_clip_small.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511524463414-G381OIHA8WZH2LOJB26M/wand_clip_small.gif)
@@ -1102,31 +1087,23 @@ A concept for adding delight to navigating theme parks; the user taps their wand
 ![devOne.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510933435249-EHRL4D0XS4Q1PXHKVHY9/devOne.JPG)
 
 ![ThemePark_Assets-02.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510933460335-DGVMFGCYQ66SLQ9R1H0E/ThemePark_Assets-02.png)
-`,L=`---
+`,F=`---
 id: magnetism
 title: Magnetism
 subtitle: Magnetic behaviour between the user & objects.
 description: Magnetic behaviour between the user & objects.
 category: work
-tags: [AI]
+tags: [Processing, Physics]
 image: /images/magnetism/cover.gif
 featured: false
-completedAt: 2024-01-01
+completedAt: 2015-06-01
 duration: 2 weeks
 ---
-# Magnetism
-
-magnetism
 
 Magnetic behaviour between the user & objects.
 
-## Gallery
-
-
 ![magnet_clip_small.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511538125705-A5PKYAU57JESDVFVMDYJ/magnet_clip_small.gif)
-
-![magnet_clip_small.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511538310812-7I7CEILHT3TI7ROSS0OZ/magnet_clip_small.gif)
-`,F=`---
+`,L=`---
 id: markdown-features-demo
 title: Enhanced Markdown Features Demo
 subtitle: Showcase of all available markdown capabilities
@@ -1354,7 +1331,13 @@ duration: 4 weeks
 
 Using planetary orbits & explosion diagrams to understand complex relationships between resources.
 
-![API Architecture Diagram](/images/motion-study-1/one.gif)
+Using planetary orbits & explosion diagrams to understand complex relationships between cloud resources
+
+![one.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1600005474063-M90ZWONPB1P78RYV2X8B/one.gif)
+
+![three.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1600005362913-SS4YDVZQBFCUG4WNPIKG/three.gif)
+
+![two.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1600005407402-QPWOLJDN9AQGBANUSKOA/two.gif)
 
 ## Overview
 
@@ -1775,11 +1758,7 @@ completedAt: 2020-09-06
 duration: 1 week
 ---
 
-# Notebooks
-
 Jupyter Notebooks prototypes for VS Code.
-
-![Project Screenshot](/images/simple-template.svg)
 
 ## Overview
 
@@ -1829,15 +1808,12 @@ title: Objective 4x
 subtitle: A purpose built panning rig to film everyday objects through a microscope.
 description: A purpose built panning rig to film everyday objects through a microscope.
 category: work
-tags: [Arduino, AI, Design, SPYSCAPE, Google, Intel]
+tags: [Arduino, Laser Cutting, Videography]
 image: /images/objective-4x/cover.gif
 featured: false
-completedAt: 2024-01-01
+completedAt: 2015-11-01
 duration: 2 weeks
 ---
-# Objective 4x
-
-objective 4x
 
 A purpose built panning rig to film everyday objects through a microscope.
 
@@ -1852,10 +1828,6 @@ Music credit – The Shoes 'Submarine'
 
 [![](https://i.vimeocdn.com/video/557254198_640.jpg)](https://vimeo.com/156284978)
 
-## Gallery
-
-
-![objective_clip_small.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511518839231-WXB94PQEUSY70TCUC2FK/objective_clip_small.gif)
 
 ![Screen Shot 2017-11-19 at 14.36.34.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511104329644-AWQCZDXT3LR19K3S5MX0/Screen+Shot+2017-11-19+at+14.36.34.png)
 
@@ -1872,22 +1844,27 @@ title: The Observer
 subtitle: A public access CCTV viewer exploring the social boundaries of surveillance.
 description: A public access CCTV viewer exploring the social boundaries of surveillance.
 category: work
-tags: [Technology, Framework]
+tags: [Design, University Project, Surveillance]
 image: /images/observer/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
-liveUrlLabel: Live Demo
-sourceUrlLabel: Source Code
+sourceUrl: https://findplaymaketalk.blogspot.com
+sourceUrlLabel: Project blog
 completedAt: 2010-05-01
-duration: 1 week
+duration: 9 months
 ---
 
-# The Observer
+An exploration into voyeurism & CCTV.
 
-A public access CCTV viewer exploring the social boundaries of surveillance.
+A public access CCTV viewer exploring the social boundaries within surveillance. Viewers insert £1 for 10 minutes of access, can select a local CCTV feed using the front dial & explore the footage using the side knobs. Powered by Arduino & Processing, the project was my final year piece at University.
 
-![Project Screenshot](/images/simple-template.svg)
+::: info
+Graduated with a 1st in Product Design BSc (Hons).
+:::
+
+### Media Coverage
+
+- **[Wired](https://www.wired.co.uk/article/public-access-to-cctv-offered-by-the-observer)**
+- **[Yanko Design](http://www.yankodesign.com/2010/05/31/cctv-for-me/)**
 
 ## Overview
 
@@ -1936,21 +1913,17 @@ id: particles
 title: Particles
 subtitle: Interacting with particles using a webcam & colour detection.
 description: Interacting with particles using a webcam & colour detection.
-category: work
-tags: [Web, AI]
+category: experiments
+tags: [Processing, Physics]
 image: /images/particles/cover.gif
 featured: false
-completedAt: 2024-01-01
+completedAt: 2015-07-01
 duration: 2 weeks
 ---
+
 # Particles
 
-particles
-
 Interacting with particles using a webcam & colour detection.
-
-## Gallery
-
 
 ![particle_clip_small.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511537771586-L13540ZEKLCFJ831L81U/particle_clip_small.gif)
 
@@ -1961,22 +1934,15 @@ title: Pattern Tool #4
 subtitle: Pattern generator for visual brand exploration.
 description: Pattern generator for visual brand exploration.
 category: work
-tags: [Vue, AI, Design, SPYSCAPE, Google, Intel]
+tags: [P5.js]
 image: /images/pattern-tool-4/cover.png
 featured: false
-completedAt: 2024-01-01
+completedAt: 2020-04-01
 duration: 2 weeks
 ---
 # Pattern Tool #4
 
-pattern tool #4
-
-Pattern generator for visual brand exploration.
-
-⚡ Powered by Vue, P5.js
-
-## Gallery
-
+Pattern generator for visual brand exploration of cloud computing.
 
 ![Screenshot 2020-04-01 at 11.05.06.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1586697216804-T9QPSTKMMZF5Y8V66GAF/Screenshot+2020-04-01+at+11.05.06.png)
 
@@ -1994,42 +1960,30 @@ Pattern generator for visual brand exploration.
 `,J=`---
 id: physical-onenote
 title: Physical OneNote
-subtitle: A concept for an organisational product.
-description: A concept for an organisational product.
+subtitle: A concept for a household organisational product.
+description: A concept for a household organisational product.
 category: work
-tags: [Hackathon, AI, Design, Prototype, Microsoft, SPYSCAPE, Google, Intel]
+tags: [Hackathon, Product Design, OneNote, Azure]
 image: /images/physical-onenote/cover.png
 featured: false
-completedAt: 2024-01-01
+completedAt: 2014-06-01
 duration: 2 weeks
 ---
 # Physical OneNote
 
-physical onenote
-
-A concept for an organisational product.
+A concept for a household organisational product.
 
 Created for the Microsoft hackathon, we concepted & pitched a low cost prototype e-ink product that was linked to a OneNote account & could display messages, lists & recipes.
 
+::: info
 🏆 Winner, Microsoft hackathon London, 2014.
-
-⚡ Powered by
-
-Microsoft OneNote
-
-, Microsoft Azure.
-
-## Gallery
-
-
-![oneNote.37.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510931819035-6OOXGQEQ0DWDW2YTN1CG/oneNote.37.png)
+:::
 
 ![oneNote.37.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510930894744-172IW2TEIJ1WNWPH7V1Q/oneNote.37.png)
 
 ![](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510931514108-SUOATGO36G81KUMOFGI9/Physical+Onenote+Sample3-01.png)
 
-![physical onenote.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510931572461-60FB3Z0AGLWYDIVBGCC3/physical+onenote.jpg)
-- **[Microsoft OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)**`,N=`---
+![physical onenote.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510931572461-60FB3Z0AGLWYDIVBGCC3/physical+onenote.jpg)`,N=`---
 id: presence
 title: Presence
 subtitle: IoT devices to communicate social availability in physical space
@@ -3704,4 +3658,4 @@ export const mainFunction = () => {
 
 - **Live Demo**: [project.com](https://example.com)
 - **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,Ae={activity:e,aether:n,"chat-bot":t,"smart-speaker":a,beacons:o,"bird-fm":s,boxnet:i,"breaking-news":r,carbon:c,"cinema-poster":p,"cities-unlocked":l,"color-mapper":d,"colour-detection":g,concrete:m,"crit-card":u,datacatcher:h,"debrief-spyscape":f,"drawing-robot":b,elatus:y,"encryption-ops-spyscape":v,"figma-ui-toolkit":w,figmail:A,"gif-generator":S,gift:M,"google-play":P,"handbell-hero":I,helvar:G,"instrument-1":k,"intell-wonderwall":T,"interrogation-ops-spyscape":E,keyshot:_,"light-painting":C,light:j,"magic-wand":D,magnetism:L,"markdown-features-demo":F,"motion-study-1":B,notebooks:R,"objective-4x":O,observer:q,particles:U,"pattern-tool-4":x,"physical-onenote":J,presence:N,protopie:H,"real-time-clock":W,"rfid-rings":Y,"rfid-spyscape":V,"sf-symbol-creator":K,skew:Q,"slug-and-chip":Z,"social-radio":X,"spring-table":z,"spyscape-special-ops":$,spyscape:ee,"status-board":ne,"storymaker-storyteller-portfolio":te,"storymaker-storyteller":ae,"surveillance-ops-spyscape":oe,swisscom:se,switchboard:ie,"syntax-highlighter":re,teacake:ce,"test-callouts":pe,"the-alarming-clock":le,"theme-importer":de,"top-hat":ge,toroid:me,"universal-compass":ue,vitra:he,"vs-code-codicons":fe,"wearable-gestures":be,"weather-station-portfolio":ye,"weather-station":ve,"word-clouds":we};export{Ae as MARKDOWN_CONTENT};
+`,Ae={activity:e,aether:n,"chat-bot":t,"smart-speaker":a,beacons:o,"bird-fm":s,boxnet:i,"breaking-news":r,carbon:c,"cinema-poster":p,"cities-unlocked":l,"color-mapper":d,"colour-detection":g,concrete:m,"crit-card":u,datacatcher:h,"debrief-spyscape":f,"drawing-robot":b,elatus:y,"encryption-ops-spyscape":v,"figma-ui-toolkit":w,figmail:A,"gif-generator":S,gift:M,"google-play":P,"handbell-hero":I,helvar:G,"instrument-1":k,"intell-wonderwall":T,"interrogation-ops-spyscape":E,keyshot:C,"light-painting":_,light:j,"magic-wand":D,magnetism:F,"markdown-features-demo":L,"motion-study-1":B,notebooks:R,"objective-4x":O,observer:q,particles:U,"pattern-tool-4":x,"physical-onenote":J,presence:N,protopie:H,"real-time-clock":W,"rfid-rings":Y,"rfid-spyscape":V,"sf-symbol-creator":K,skew:Q,"slug-and-chip":Z,"social-radio":X,"spring-table":z,"spyscape-special-ops":$,spyscape:ee,"status-board":ne,"storymaker-storyteller-portfolio":te,"storymaker-storyteller":ae,"surveillance-ops-spyscape":oe,swisscom:se,switchboard:ie,"syntax-highlighter":re,teacake:ce,"test-callouts":pe,"the-alarming-clock":le,"theme-importer":de,"top-hat":ge,toroid:me,"universal-compass":ue,vitra:he,"vs-code-codicons":fe,"wearable-gestures":be,"weather-station-portfolio":ye,"weather-station":ve,"word-clouds":we};export{Ae as MARKDOWN_CONTENT};
