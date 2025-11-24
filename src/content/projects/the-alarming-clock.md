@@ -16,7 +16,9 @@ A hand crafted timepiece to improve sleep.
 
 A UK manufactured batch produced alarm clock that helps to develop a regular sleep cycle by introducing an evening alarm 9 hours prior to the morning alarm & hiding the clock face. The alarm signal is customisable & is created by a beak that "pecks" against the surface the clock is put against, like a woodpecker.
 
-> 🏆 Winner, Not on the High Street Awards, 2015.
+::: info
+Winner, Not on the High Street Awards, 2015.
+:::
 
 - Featured at **[Disegnare Oggetti Sonori](http://www.dosdesign.org/)**
 - Featured in **[Core77](https://www.core77.com/posts/25398/Cause-for-Alarm-Natalie-Duckett-n-Lee-Murray-Reinvent-the-Alarm-Clock)**

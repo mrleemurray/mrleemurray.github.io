@@ -1,27 +1,22 @@
 ---
 id: rfid-spyscape
-title: RFID | SPYSCAPE
-subtitle: READERS & TAGS THAT TRACK VISITORS THROUGHOUT THE MUSEUM
-description: READERS & TAGS THAT TRACK VISITORS THROUGHOUT THE MUSEUM
+title: RFID Readers
+subtitle: RFID readers that track visitors throughout SPYSCAPE museum.
+description: RFID readers that track visitors throughout SPYSCAPE museum.
 category: work
 tags: [Python, 3D Printing, AI, Design, SPYSCAPE, Google, Intel]
 image: /images/rfid-spyscape/cover.gif
 featured: false
-completedAt: 2024-01-01
+completedAt: 2017-01-01
 duration: 2 weeks
 ---
-# RFID | SPYSCAPE
+# RFID Readers
 
-RFID | SPYSCAPE
-
-READERS & TAGS THAT TRACK VISITORS THROUGHOUT THE MUSEUM
+RFID readers that track visitors throughout SPYSCAPE museum.
 
 **Manufacturing:** Designed in EagleCAD, produced by European Circuits Ltd
 
 ⚡ Powered by Linino / Python / C
-
-## Gallery
-
 
 ![rfid gif.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540844452350-MKJATJ5WOEL76JLQCJMB/rfid+gif.gif)
 

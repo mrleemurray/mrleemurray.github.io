@@ -16,12 +16,9 @@ RFID rings
 
 Concepts for integrating RFID tags into jewellery.
 
-Repurposing injectable RFID trackers for animals as the stone in rings.
+Repurposing injectable RFID trackers for animals as the gemstone in rings.
 
 **Manufacturing:** CAD created in SolidWorks
-
-## Gallery
-
 
 ![IMG_2761.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511541067916-MO2MPBVLWX7GN301SE16/IMG_2761.JPG)
 

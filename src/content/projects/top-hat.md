@@ -16,7 +16,9 @@ An experiment to generate repeating patterns using the TopHat Logo
 
 A Processing sketch to explore early stage pattern assets for sustainable housing company **[TopHat](https://tophat.io)**
 
-> The tool was created & presented during a client meeting to show ability to rapid exploration of concepts & capabilities of team.
+::: info
+The tool was created & presented during a client meeting to show ability to rapid exploration of concepts & capabilities of team.
+:::
 
 ![Screenshot+2023-12-18+at+11.08.25.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702897816042-YAMGD11KCUHJXLNJW452/Screenshot%2B2023-12-18%2Bat%2B11.08.25.jpg)
 
