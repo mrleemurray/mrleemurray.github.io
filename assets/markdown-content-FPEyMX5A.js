@@ -178,8 +178,8 @@ Arduino
 - **[Arduino](https://www.arduino.cc)**`,o=`---
 id: beacons
 title: Beacons
-subtitle: EXTENDING LIFESPAN OF BLUETOOTH LOW ENERGY BEACONS THOUGH HARDWARE HACKING
-description: EXTENDING LIFESPAN OF BLUETOOTH LOW ENERGY BEACONS THOUGH HARDWARE HACKING
+subtitle: Extending the lifespan of Bluetooth Low Energy Beacons though hardware hacking
+description: Extending the lifespan of Bluetooth Low Energy Beacons though hardware hacking
 category: work
 tags: [Hardware, Bluetooth]
 image: /images/beacons/cover.png
@@ -713,7 +713,7 @@ export const mainFunction = () => {
 
 - **Live Demo**: [project.com](https://example.com)
 - **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,A=`---
+`,S=`---
 id: figmail
 title: Figmail
 subtitle: Create & export email templates for Outlook.
@@ -772,7 +772,7 @@ export const mainFunction = () => {
 
 - **Live Demo**: [project.com](https://example.com)
 - **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,S=`---
+`,A=`---
 id: gif-generator
 title: GIF Generator
 subtitle: A tool to create encryption like animations in gif form.
@@ -881,7 +881,7 @@ A mobile app that uses the accelerometer of a device to play a Christmas song. S
 ![handbellHero_920_3.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510930401632-6HYBBTFJW4PGCU8OJFRJ/handbellHero_920_3.png)
 
 ![handebellHero9202.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510930442665-RR3LI96KXJHN6GHRPPJK/handebellHero9202.png)
-`,G=`---
+`,k=`---
 id: helvar
 title: Helvar
 subtitle: Working with an international lighting company to promote intelligent lighting systems.
@@ -917,7 +917,7 @@ Featured at Light + Building expo 2016.
 ![IMG_6144.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526417204259-MT3B5TS57GGCNNGO9V09/IMG_6144.JPG)
 
 ![IMG_6150.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526417208718-49WAAD9U6K1CQN489SMH/IMG_6150.JPG)
-`,k=`---
+`,G=`---
 id: instrument-1
 title: Instrument 1
 subtitle: Turning coloured squares into musical notes.
@@ -933,7 +933,7 @@ duration: 1 day
 Turning coloured squares into musical notes.
 
 ![musical instrument.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540851859163-JN9X1C0FI2U31Z1U18LZ/musical+instrument.gif)
-`,T=`---
+`,_=`---
 id: intell-wonderwall
 title: Intel Wonderwall
 subtitle: Early concept prototypes for interactive brand experience.
@@ -959,7 +959,7 @@ A Processing app that allows graphic designers quickly visualise dynamic animati
 ![Screen Shot 2016-03-30 at 12.05.57.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511101110077-8YN3DUCMFY40IVSU9OU8/Screen+Shot+2016-03-30+at+12.05.57.png)
 
 ![Screen Shot 2016-03-30 at 16.05.55.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511101141209-BJ8Z3SLPNCVCEUO6HTQC/Screen+Shot+2016-03-30+at+16.05.55.png)
-`,E=`---
+`,j=`---
 id: interrogation-ops-spyscape
 title: Interrogation Ops | SPYSCAPE
 subtitle: Twelve interrogation booths to test & teach deception skills.
@@ -988,7 +988,7 @@ Photo credit - Scott Frances for SPYSCAPE
 ![Untitled_Panorama6.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532878687773-6K5WOI6IRW5M4XAUSXVQ/Untitled_Panorama6.jpg)
 
 ![IMG_0712.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532878737281-ABL9KW9HSQGGHZNWLEN9/IMG_0712.jpg)
-`,C=`---
+`,T=`---
 id: keyshot
 title: Keyshot
 subtitle: Experiments with light & textures in Keyshot.
@@ -1008,7 +1008,7 @@ Experiments with light & textures in Keyshot during a training course.
 ![IMG_2778.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540836739560-429VI1N8TVYSJ19ER9P1/IMG_2778.jpg)
 
 ![IMG_2779.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540836768590-EY4JS2G754LUWGGWWRXF/IMG_2779.jpg)
-`,_=`---
+`,C=`---
 id: light-painting
 title: Light Painting
 subtitle: Experiments with code, persistence of vision & long exposure photography.
@@ -1032,7 +1032,7 @@ Experiments with code, persistence of vision & long exposure photography.
 ![DSC01479.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526412707686-GJ8VYSUEI6G4WLYRO5RK/DSC01479.JPG)
 
 ![](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526412769406-CK6M88AGSA97TO15ZURD/image-asset.jpeg)
-`,j=`---
+`,E=`---
 id: light
 title: Light
 subtitle: 60 minute build of an adjustable light
@@ -1741,7 +1741,7 @@ export const metricsMiddleware = (req: Request, res: Response, next: NextFunctio
 
 ---
 
-`,R=`---
+`,q=`---
 id: notebooks
 title: Notebooks
 subtitle: Jupyter Notebooks prototypes for VS Code.
@@ -1802,7 +1802,7 @@ export const mainFunction = () => {
 
 - **Live Demo**: [project.com](https://example.com)
 - **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,O=`---
+`,R=`---
 id: objective-4x
 title: Objective 4x
 subtitle: A purpose built panning rig to film everyday objects through a microscope.
@@ -1838,7 +1838,7 @@ Music credit – The Shoes 'Submarine'
 ![IMG_5180.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526417592796-DHND8QFJQVFEBO8CP0YN/IMG_5180.JPG)
 
 ![IMG_4936.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526417580370-W0P1XGJI48JMADPF3DJ3/IMG_4936.JPG)
-`,q=`---
+`,x=`---
 id: observer
 title: The Observer
 subtitle: A public access CCTV viewer exploring the social boundaries of surveillance.
@@ -1908,7 +1908,7 @@ export const mainFunction = () => {
 
 - **Live Demo**: [project.com](https://example.com)
 - **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,U=`---
+`,O=`---
 id: particles
 title: Particles
 subtitle: Interacting with particles using a webcam & colour detection.
@@ -1928,7 +1928,7 @@ Interacting with particles using a webcam & colour detection.
 ![particle_clip_small.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511537771586-L13540ZEKLCFJ831L81U/particle_clip_small.gif)
 
 ![particle_clip_small.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511537950436-2Z0S2ONGD7N23PGVQMW9/particle_clip_small.gif)
-`,x=`---
+`,J=`---
 id: pattern-tool-4
 title: Pattern Tool #4
 subtitle: Pattern generator for visual brand exploration.
@@ -1957,7 +1957,7 @@ Pattern generator for visual brand exploration of cloud computing.
 ![download (6).png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1586697614194-NPUJCH4T129DPJP4WEQI/download+%286%29.png)
 
 ![download (14).png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1586697609294-JUHFS1VVZAJLNNELFQ83/download+%2814%29.png)
-`,J=`---
+`,U=`---
 id: physical-onenote
 title: Physical OneNote
 subtitle: A concept for a household organisational product.
@@ -2053,7 +2053,7 @@ Device configuration tool
 ![IMG_7332.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1646733559989-G0825IS6ZTTGCDKZMPTH/IMG_7332.JPG)
 
 ![IMG_7354.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1646733576639-OY4L6BWHSQBBL3X2EMD3/IMG_7354.JPG)
-- **[Adafruit Huzzah32 Feather development boards](https://www.adafruit.com/product/3405)**`,H=`---
+- **[Adafruit Huzzah32 Feather development boards](https://www.adafruit.com/product/3405)**`,W=`---
 id: protopie
 title: ProtoPie
 subtitle: Learning a new prototyping tool.
@@ -2071,14 +2071,11 @@ ProtoPie
 
 Learning a new prototyping tool.
 
-## Gallery
-
-
 ![protopie_nesting_demo.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1739879763680-1XWLUMU9WPBRXPCO1178/protopie_nesting_demo.gif)
 
 ![](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/7b605400-4c29-4181-852f-99e7bed71e8b/protopie_docking_demo.gif)
 
-![](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/9a994d08-1d5a-41e5-8a1c-3044070c7caa/protopie_nesting_demo.gif)`,W=`---
+![](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/9a994d08-1d5a-41e5-8a1c-3044070c7caa/protopie_nesting_demo.gif)`,H=`---
 id: real-time-clock
 title: Real Time Clock
 subtitle: Add live time & date information to any design, presentation, or prototype.
@@ -2160,40 +2157,32 @@ RFID rings
 
 Concepts for integrating RFID tags into jewellery.
 
-Repurposing injectable RFID trackers for animals as the stone in rings.
+Repurposing injectable RFID trackers for animals as the gemstone in rings.
 
 **Manufacturing:** CAD created in SolidWorks
-
-## Gallery
-
 
 ![IMG_2761.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511541067916-MO2MPBVLWX7GN301SE16/IMG_2761.JPG)
 
 ![IMG_2763.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511541021145-2ZIIZJBBLMM16JSKJM61/IMG_2763.JPG)
 `,V=`---
 id: rfid-spyscape
-title: RFID | SPYSCAPE
-subtitle: READERS & TAGS THAT TRACK VISITORS THROUGHOUT THE MUSEUM
-description: READERS & TAGS THAT TRACK VISITORS THROUGHOUT THE MUSEUM
+title: RFID Readers
+subtitle: RFID readers that track visitors throughout SPYSCAPE museum.
+description: RFID readers that track visitors throughout SPYSCAPE museum.
 category: work
 tags: [Python, 3D Printing, AI, Design, SPYSCAPE, Google, Intel]
 image: /images/rfid-spyscape/cover.gif
 featured: false
-completedAt: 2024-01-01
+completedAt: 2017-01-01
 duration: 2 weeks
 ---
-# RFID | SPYSCAPE
+# RFID Readers
 
-RFID | SPYSCAPE
-
-READERS & TAGS THAT TRACK VISITORS THROUGHOUT THE MUSEUM
+RFID readers that track visitors throughout SPYSCAPE museum.
 
 **Manufacturing:** Designed in EagleCAD, produced by European Circuits Ltd
 
 ⚡ Powered by Linino / Python / C
-
-## Gallery
-
 
 ![rfid gif.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540844452350-MKJATJ5WOEL76JLQCJMB/rfid+gif.gif)
 
@@ -3076,48 +3065,28 @@ title: The Alarming Clock
 subtitle: A hand crafted timepiece to improve sleep.
 description: A hand crafted timepiece to improve sleep.
 category: work
-tags: [Vue, Arduino, Hardware, AI, Design, SPYSCAPE, Google, Intel]
+tags: [Product Design, Hardware, Arduino, Health]
 image: /images/the-alarming-clock/cover.png
 featured: false
-completedAt: 2024-01-01
-duration: 2 weeks
+completedAt: 2013-01-01
+duration: 12 months
 ---
 # The Alarming Clock
-
-the alarming clock
 
 A hand crafted timepiece to improve sleep.
 
 A UK manufactured batch produced alarm clock that helps to develop a regular sleep cycle by introducing an evening alarm 9 hours prior to the morning alarm & hiding the clock face. The alarm signal is customisable & is created by a beak that "pecks" against the surface the clock is put against, like a woodpecker.
 
-🖼️ Featured in
+::: info
+Winner, Not on the High Street Awards, 2015.
+:::
 
-Disegnare Oggetti Sonori
+- Featured at **[Disegnare Oggetti Sonori](http://www.dosdesign.org/)**
+- Featured in **[Core77](https://www.core77.com/posts/25398/Cause-for-Alarm-Natalie-Duckett-n-Lee-Murray-Reinvent-the-Alarm-Clock)**
+- PCB Manufactured by **[European Circuits Ltd.](https://european-circuits.co.uk)**
+- CE Mark tested by **[York EMC](https://www.yorkemc.com)**
+- Powered by **[Arduino](https://www.arduino.cc)**
 
-(Designing Sound Objects) exhibition, Rome, 2013.
-
-🌐 Featured on
-
-Core77
-
-🏆 Winner, Not on the High Street Awards, 2015.
-
-🔧 PCB Manufactured by
-
-European Circuits Ltd.
-
-, CE Mark tested by
-
-York EMC
-
-⚡ Powered by
-
-Arduino
-
-## Gallery
-
-
-![clockSlide1.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510929879179-WSQ9I8BJ6MVH4Q8OTP9D/clockSlide1.png)
 
 ![clockSlide1.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510929789516-4IOYDI3MT298ELA2EEQ7/clockSlide1.png)
 
@@ -3132,11 +3101,7 @@ Arduino
 ![IMG_0582.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540835240282-RE5SNNQ2VMHFR4MGBO3F/IMG_0582.jpg)
 
 ![IMG_0505.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540844619831-9B0B8GI79VEQU162QM1F/IMG_0505.jpg)
-- **[Disegnare Oggetti Sonori](http://www.dosdesign.org/)**
-- **[Core77](https://www.core77.com/posts/25398/Cause-for-Alarm-Natalie-Duckett-n-Lee-Murray-Reinvent-the-Alarm-Clock)**
-- **[European Circuits Ltd.](https://european-circuits.co.uk)**
-- **[York EMC](https://www.yorkemc.com)**
-- **[Arduino](https://www.arduino.cc)**`,de=`---
+`,de=`---
 id: theme-importer
 title: Theme Importer
 subtitle: Generate Figma variables from popular VS Code themes.
@@ -3205,30 +3170,21 @@ title: TopHat
 subtitle: An experiment to generate repeating patterns using the TopHat Logo
 description: An experiment to generate repeating patterns using the TopHat Logo
 category: work
-tags: [API, AI, Design, SPYSCAPE, Google, Intel]
+tags: [Processing, Branding, Creative Coding]
 image: /images/top-hat/cover.png
 featured: false
 completedAt: 2024-01-01
-duration: 2 weeks
+duration: 1 hour
 ---
 # TopHat
 
-TOPHAT
-
 An experiment to generate repeating patterns using the TopHat Logo
 
-A Processing sketch to explore early stage pattern assets for sustainable housing company
+A Processing sketch to explore early stage pattern assets for sustainable housing company **[TopHat](https://tophat.io)**
 
-TopHat
-
-. The tool was created & presented during a client meeting to show ability to rapid exploration of concepts & capabilities of team.
-
-View fullsize
-
-**Technology:** Processing
-
-## Gallery
-
+::: info
+The tool was created & presented during a client meeting to show ability to rapid exploration of concepts & capabilities of team.
+:::
 
 ![Screenshot+2023-12-18+at+11.08.25.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702897816042-YAMGD11KCUHJXLNJW452/Screenshot%2B2023-12-18%2Bat%2B11.08.25.jpg)
 
@@ -3243,32 +3199,19 @@ View fullsize
 ![Screenshot+2023-12-18+at+11.08.49.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702898096442-5W4ABKOINTYUWUZD5O9X/Screenshot%2B2023-12-18%2Bat%2B11.08.49.jpg)
 
 ![Screenshot+2023-12-18+at+11.08.57.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702898114638-KS27PAWFP7TUDDAMDBYG/Screenshot%2B2023-12-18%2Bat%2B11.08.57.jpg)
-- **[TopHat](https://tophat.io)**
-- **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702898001399-I64UQ35HTSSXNWQYGQPS/Screenshot%2B2023-12-18%2Bat%2B11.08.00.jpg)**
-- **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702898023324-5H4WDQI1C223HV3LVU8B/Screenshot%2B2023-12-18%2Bat%2B11.08.13.jpg)**
-- **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702898054405-1GUW91M98UETB6RSB974/Screenshot%2B2023-12-18%2Bat%2B11.08.25.jpg)**
-- **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702898070457-90PQ0I8NHYZPVUZCAL5B/Screenshot%2B2023-12-18%2Bat%2B11.08.41.jpg)**
-- **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702898096442-5W4ABKOINTYUWUZD5O9X/Screenshot%2B2023-12-18%2Bat%2B11.08.49.jpg)**
-- **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702898114638-KS27PAWFP7TUDDAMDBYG/Screenshot%2B2023-12-18%2Bat%2B11.08.57.jpg)**`,me=`---
+`,me=`---
 id: toroid
 title: Toroid
-category: work
-tags: [AI]
+category: Experiments
+tags: [P5.js, Creative Coding]
 image: /images/toroid/cover.png
 featured: false
-completedAt: 2024-01-01
-duration: 2 weeks
+completedAt: 2023-01-01
+duration: 1 hour
 ---
 # Toroid
 
-Toroid
-
-A P5.js sketch.
-
-## Gallery
-
-
-![experiment_cover.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1739882650922-CPTB857Y3K4E31FPWRKA/experiment_cover.png)
+A quick P5.js sketch.
 
 ![experiment_cover.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1739882797903-WNGTD81HG0H5DZ40A3UB/experiment_cover.png)
 
@@ -3281,34 +3224,21 @@ title: Universal Compass
 subtitle: A device that shows you where you want to go.
 description: A device that shows you where you want to go.
 category: work
-tags: [Arduino, Mobile, AI, Design, SPYSCAPE, Google, Intel]
+tags: [Arduino, Mobile, Incubator]
 image: /images/universal-compass/cover.png
 featured: false
-completedAt: 2024-01-01
+completedAt: 2012-01-01
 duration: 2 weeks
 ---
 # Universal Compass
 
-universal compass
+A companion device that shows you where you want to go.
 
-A device that shows you where you want to go.
+An Android app & bluetooth device with in-built compass that allows users to set a destination & is shown what general direction it is in. Primarily intended for on-foot navigation, to encourage exploration around cities while maintaining a sense of direction.
 
-An Android app & bluetooth device with in-built compass that allows users to set a destination & is shown what direction it is in. Primarily intended for on-foot navigation, to encourage exploration around cities while maintaining a sense of direction.
-
-💡 Patent applied December 2012 - link
-
-here
-
-⚡ Powered by
-
-Arduino
-
-, Bluetooth,
-
-Android
-
-## Gallery
-
+- Patent **[applied](https://www.google.co.uk/patents/US20150331081)** December 2012
+- **[Arduino](https://www.arduino.cc)**
+- **[Android](https://developer.android.com/studio)**
 
 ![compass_clip.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511526149223-8L1F97T2PW74GQS0CDH7/compass_clip.gif)
 
@@ -3321,23 +3251,19 @@ Android
 ![IMG_0056.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540838362656-60JAOJNTNE3V5UXJUYCE/IMG_0056.jpg)
 
 ![IMG_0078.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540838451915-8T17E0RCDDVM19HATG4U/IMG_0078.jpg)
-- **[here](https://www.google.co.uk/patents/US20150331081)**
-- **[Arduino](https://www.arduino.cc)**
-- **[Android](https://developer.android.com/studio)**`,he=`---
+`,he=`---
 id: vitra
 title: Vitra Design Museum
-subtitle: Commissioned for the Alvar Aalto exhibition at the Vitra Museum, Basel, we created a mobile app to help visitors learn more about the exhibits by tapp...
-description: Commissioned for the Alvar Aalto exhibition at the Vitra Museum, Basel, we created a mobile app to help visitors learn more about the exhibits by tapp...
+subtitle: Companion app for the Alvar Aalto exhibition at the Vitra Museum, Basel.
+description: Companion app for the Alvar Aalto exhibition at the Vitra Museum, Basel.
 category: work
-tags: [Python, Raspberry Pi, Mobile, AI, Design, SPYSCAPE, Google, Intel]
+tags: [Python, Raspberry Pi, Mobile, Museum, NFC]
 image: /images/vitra/cover.png
 featured: false
-completedAt: 2024-01-01
+completedAt: 2012-12-01
 duration: 2 weeks
 ---
 # Vitra Design Museum
-
-Vitra Design Museum
 
 Commissioned for the Alvar Aalto exhibition at the Vitra Museum, Basel, we created a mobile app to help visitors learn more about the exhibits by tapping on NFC tags next to the items. To continually improve the visitor experience, analytics from every device is recorded & relayed back to the cloud via a purpose built 3G router.
 
@@ -3346,9 +3272,6 @@ By creating a simple app, containing additional information about the exhibits i
 The technology helped track the visitors’ interaction and as a result, a greater understanding was gained of the their behaviours, which could be utilised in the design of upcoming exhibitions.
 
 ⚡ Powered by Raspberry Pi, Python
-
-## Gallery
-
 
 ![21_Lumia@_Vitra_Museum.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510932347850-30EY8K5MX1VIF2F62CRI/21_Lumia%40_Vitra_Museum.jpg)
 
@@ -3436,11 +3359,11 @@ title: Wearable gestures
 subtitle: Exploring & understanding wearable based wrist gestures.
 description: Exploring & understanding wearable based wrist gestures.
 category: work
-tags: [Arduino, 3D Printing, Hardware, AI, IoT, Design, Prototype, SPYSCAPE, Google, Intel]
+tags: [Arduino, 3D Printing, Hardware, Wearables]
 image: /images/wearable-gestures/cover.png
 featured: false
-completedAt: 2024-01-01
-duration: 2 weeks
+completedAt: 2014-12-01
+duration: 2 months
 ---
 # Wearable gestures
 
@@ -3450,28 +3373,13 @@ Exploring & understanding wearable based wrist gestures.
 
 A wearable prototype platform to understand the mechanics of gestures, interpreting data from on-board sensors & develop UX use cases.
 
-⚡ Powered by
+## Made with
 
-Arduino
-
-Processing
-
-, Windows Phone 8, C#.
-
-🔧 CAD created in
-
-SolidWorks
-
-, PCB created in
-
-EagleCAD
-
-, circuit board manufactured by
-
-DirtyPCBs
-
-## Gallery
-
+- **[Arduino](https://www.arduino.cc)**
+- **[Processing](https://processing.org)**
+- **[SolidWorks](https://www.solidworks.com)**
+- **[EagleCAD](https://www.autodesk.co.uk/products/eagle/free-download)**
+- **[DirtyPCBs](https://dirtypcbs.com/store/pcbs)**
 
 ![IMG_2355.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511543229275-7VRBL0YUAJB1UU785BH3/IMG_2355.JPG)
 
@@ -3494,43 +3402,7 @@ DirtyPCBs
 ![IMG_1740.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540846112311-6AO50W27XFEDIN40XQW3/IMG_1740.jpg)
 
 ![IMG_2336.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540846495888-3BBSWMXBEBEWMQAD4WEU/IMG_2336.JPG)
-- **[Arduino](https://www.arduino.cc)**
-- **[Processing](https://processing.org)**
-- **[SolidWorks](https://www.solidworks.com)**
-- **[EagleCAD](https://www.autodesk.co.uk/products/eagle/free-download)**
-- **[DirtyPCBs](https://dirtypcbs.com/store/pcbs)**`,ye=`---
-id: weather-station-portfolio
-title: Weather Station
-subtitle: A WEATHER DISPLAY FOR SAILORS AT THE LAKE MACQUARIE YACHT CLUB. REALTIME DATA FROM AUSTRALIAN GOVERNMENT BUREAU OF METEOrOLOGY.
-description: A WEATHER DISPLAY FOR SAILORS AT THE LAKE MACQUARIE YACHT CLUB. REALTIME DATA FROM AUSTRALIAN GOVERNMENT BUREAU OF METEOrOLOGY.
-category: work
-tags: [Project]
-image: /images/weather-station-portfolio/cover.png
-featured: false
-completedAt: 2024-01-01
-duration: 2 weeks
----
-# Weather Station
-
-WEATHER STATION
-
-A WEATHER DISPLAY FOR SAILORS AT THE LAKE MACQUARIE YACHT CLUB. REALTIME DATA FROM AUSTRALIAN GOVERNMENT BUREAU OF METEOrOLOGY.
-
-**Technology:** Processing
-
-## Gallery
-
-
-![weather_station.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540850207949-HIE1N2BG2MBWXQ9EY1L5/weather_station.gif)
-
-![weather_station.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540850039175-VA6LWH8XDGYNWYAPRH53/weather_station.gif)
-
-![Screenshot 2018-09-28 at 23.48.14.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540850100858-RW7G3FUGQJ5XSWQJICHB/Screenshot+2018-09-28+at+23.48.14.png)
-
-![Screenshot 2018-09-28 at 23.48.22.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540850096513-XD8ZH174AR9E2CWQYF5K/Screenshot+2018-09-28+at+23.48.22.png)
-
-![Screenshot 2018-09-28 at 23.48.31.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540850097774-K92O0IFZXVDD8K5P1MVZ/Screenshot+2018-09-28+at+23.48.31.png)
-`,ve=`---
+`,ye=`---
 id: weather-station
 title: Weather Station
 subtitle: A weather display for sailors at the Lake MacQuarie Yacht Club. Realtime data from the Australian Government Bureau of Meteorology.
@@ -3595,7 +3467,7 @@ export const mainFunction = () => {
 
 - **Live Demo**: [project.com](https://example.com)
 - **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,we=`---
+`,ve=`---
 id: word-clouds
 title: Word Clouds
 subtitle: Generate editable word clouds from text.
@@ -3658,4 +3530,4 @@ export const mainFunction = () => {
 
 - **Live Demo**: [project.com](https://example.com)
 - **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,Ae={activity:e,aether:n,"chat-bot":t,"smart-speaker":a,beacons:o,"bird-fm":s,boxnet:i,"breaking-news":r,carbon:c,"cinema-poster":p,"cities-unlocked":l,"color-mapper":d,"colour-detection":g,concrete:m,"crit-card":u,datacatcher:h,"debrief-spyscape":f,"drawing-robot":b,elatus:y,"encryption-ops-spyscape":v,"figma-ui-toolkit":w,figmail:A,"gif-generator":S,gift:M,"google-play":P,"handbell-hero":I,helvar:G,"instrument-1":k,"intell-wonderwall":T,"interrogation-ops-spyscape":E,keyshot:C,"light-painting":_,light:j,"magic-wand":D,magnetism:F,"markdown-features-demo":L,"motion-study-1":B,notebooks:R,"objective-4x":O,observer:q,particles:U,"pattern-tool-4":x,"physical-onenote":J,presence:N,protopie:H,"real-time-clock":W,"rfid-rings":Y,"rfid-spyscape":V,"sf-symbol-creator":K,skew:Q,"slug-and-chip":Z,"social-radio":X,"spring-table":z,"spyscape-special-ops":$,spyscape:ee,"status-board":ne,"storymaker-storyteller-portfolio":te,"storymaker-storyteller":ae,"surveillance-ops-spyscape":oe,swisscom:se,switchboard:ie,"syntax-highlighter":re,teacake:ce,"test-callouts":pe,"the-alarming-clock":le,"theme-importer":de,"top-hat":ge,toroid:me,"universal-compass":ue,vitra:he,"vs-code-codicons":fe,"wearable-gestures":be,"weather-station-portfolio":ye,"weather-station":ve,"word-clouds":we};export{Ae as MARKDOWN_CONTENT};
+`,we={activity:e,aether:n,"chat-bot":t,"smart-speaker":a,beacons:o,"bird-fm":s,boxnet:i,"breaking-news":r,carbon:c,"cinema-poster":p,"cities-unlocked":l,"color-mapper":d,"colour-detection":g,concrete:m,"crit-card":u,datacatcher:h,"debrief-spyscape":f,"drawing-robot":b,elatus:y,"encryption-ops-spyscape":v,"figma-ui-toolkit":w,figmail:S,"gif-generator":A,gift:M,"google-play":P,"handbell-hero":I,helvar:k,"instrument-1":G,"intell-wonderwall":_,"interrogation-ops-spyscape":j,keyshot:T,"light-painting":C,light:E,"magic-wand":D,magnetism:F,"markdown-features-demo":L,"motion-study-1":B,notebooks:q,"objective-4x":R,observer:x,particles:O,"pattern-tool-4":J,"physical-onenote":U,presence:N,protopie:W,"real-time-clock":H,"rfid-rings":Y,"rfid-spyscape":V,"sf-symbol-creator":K,skew:Q,"slug-and-chip":Z,"social-radio":X,"spring-table":z,"spyscape-special-ops":$,spyscape:ee,"status-board":ne,"storymaker-storyteller-portfolio":te,"storymaker-storyteller":ae,"surveillance-ops-spyscape":oe,swisscom:se,switchboard:ie,"syntax-highlighter":re,teacake:ce,"test-callouts":pe,"the-alarming-clock":le,"theme-importer":de,"top-hat":ge,toroid:me,"universal-compass":ue,vitra:he,"vs-code-codicons":fe,"wearable-gestures":be,"weather-station":ye,"word-clouds":ve};export{we as MARKDOWN_CONTENT};
