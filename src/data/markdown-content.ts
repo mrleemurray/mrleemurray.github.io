@@ -37,6 +37,7 @@ import lightMd from '../content/projects/light.md?raw'
 import magicWandMd from '../content/projects/magic-wand.md?raw'
 import magnetismMd from '../content/projects/magnetism.md?raw'
 import markdownFeaturesDemoMd from '../content/projects/markdown-features-demo.md?raw'
+import measurementsMd from '../content/projects/measurements.md?raw'
 import motionStudy_1Md from '../content/projects/motion-study-1.md?raw'
 import notebooksMd from '../content/projects/notebooks.md?raw'
 import objective_4xMd from '../content/projects/objective-4x.md?raw'
@@ -113,6 +114,7 @@ export const MARKDOWN_CONTENT: Record<string, string> = {
   'magic-wand': magicWandMd,
   'magnetism': magnetismMd,
   'markdown-features-demo': markdownFeaturesDemoMd,
+  'measurements': measurementsMd,
   'motion-study-1': motionStudy_1Md,
   'notebooks': notebooksMd,
   'objective-4x': objective_4xMd,
