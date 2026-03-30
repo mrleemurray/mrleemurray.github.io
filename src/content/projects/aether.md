@@ -32,29 +32,8 @@ As part of the virtual distributed team, I led the design & development of the 3
 - Small standalone device with a custom 3D-printed case.
 - No-solder plug-and-play hardware.
 
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
 ## Links
 
-- [Build your own Aether]([https://example.com](https://github.com/scalablecory/aether/blob/main/builds/Hackathon%202021.md))
+- [Build your own Aether](https://github.com/scalablecory/aether/blob/main/builds/Hackathon%202021.md)
 - [CAD files (via OnShape)](https://cad.onshape.com/documents/4659a757dcc6ad48fc5dbdb2/w/e86154308ad2d7b9c5af7425/e/1a61edf1f11a637fd8a21e4d)
-- [Source code]([https://github.com/username/project](https://github.com/scalablecory/aether))
+- [Source code](https://github.com/scalablecory/aether)
