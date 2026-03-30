@@ -43,8 +43,7 @@ category: work
 tags: [Hackathon, CAD, Hardware, Open Source, .net]
 image: /images/aether/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+sourceUrl: https://github.com/mrleemurray/aether
 completedAt: 2022-09-04
 duration: 1 week
 ---
@@ -69,32 +68,11 @@ As part of the virtual distributed team, I led the design & development of the 3
 - Small standalone device with a custom 3D-printed case.
 - No-solder plug-and-play hardware.
 
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
 ## Links
 
-- [Build your own Aether]([https://example.com](https://github.com/scalablecory/aether/blob/main/builds/Hackathon%202021.md))
+- [Build your own Aether](https://github.com/scalablecory/aether/blob/main/builds/Hackathon%202021.md)
 - [CAD files (via OnShape)](https://cad.onshape.com/documents/4659a757dcc6ad48fc5dbdb2/w/e86154308ad2d7b9c5af7425/e/1a61edf1f11a637fd8a21e4d)
-- [Source code]([https://github.com/username/project](https://github.com/scalablecory/aether))
+- [Source code](https://github.com/scalablecory/aether)
 `,t=`---
 id: chat-bot
 title: Chat Bot
@@ -406,58 +384,15 @@ category: work
 tags: [Typescript, Figma Plugin, VS Code]
 image: /images/color-mapper/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl: https://www.figma.com/community/plugin/1218260433851630449/visual-studio-code-color-mapper
+liveUrlLabel: View plugin
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---
 
 A Figma plugin to create theme responsive SVG assets for VS Code.
 
-![Project Screenshot](/images/simple-template.svg)
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
 `,g=`---
 id: colour-detection
 title: Colour Detection
@@ -608,7 +543,7 @@ Calibration tests & other experiments - WIP
 ![IMG_2642.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526414982422-W3NANC3MTL7XT3VZ2NRK/IMG_2642.jpg)
 
 ![IMG_2650.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526415244723-I0SX3OKRMQS93NA7I83Q/IMG_2650.jpg)
-`,y=`---
+`,w=`---
 id: elatus
 title: Elatus
 subtitle: An interactive product booklet to promote the latest pest control from Syngenta.
@@ -630,7 +565,7 @@ A digital booklet to allow sales representatives to go into the field (literally
 ![Screen Shot 2017-11-24 at 13.30.00.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511530620718-2JAU1MPUT1R7EFGVHXML/Screen+Shot+2017-11-24+at+13.30.00.png)
 
 ![Screen Shot 2017-11-24 at 13.31.07.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511530660301-6FOPT5DC0HM85C25OMPJ/Screen+Shot+2017-11-24+at+13.31.07.png)
-`,v=`---
+`,y=`---
 id: encryption-ops-spyscape
 title: Encryption Ops
 subtitle: three multi-player tables that teach code breaking & test logic skills
@@ -654,7 +589,7 @@ Photo credit - Scott Frances for SPYSCAPE
 ![_DSF6703.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532879293481-T0YHO7GZ37WO9YV2G6UK/_DSF6703.jpg)
 
 ![Copy of _DSF9708.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532879325059-BOAOYQRGDDI5BWIE2ZJM/Copy+of+_DSF9708.jpg)
-`,w=`---
+`,v=`---
 id: figma-ui-toolkit
 title: Figma Plugin UI Toolkit
 subtitle: A component library for building Figma plugin UI.
@@ -663,56 +598,13 @@ category: work
 tags: [Web Components, Toolkit, Figma]
 image: /images/figma-ui-toolkit/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl:
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---
 
 A component library for building Figma plugin UI.
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
 `,S=`---
 id: figmail
 title: Figmail
@@ -722,56 +614,13 @@ category: work
 tags: [Typescript, Figma Plugin, Outlook, MJML]
 image: /images/figmail/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl:
+sourceUrl:
 completedAt: 2020-09-04
 duration: 1 week
 ---
 
 A Figma plugin to create & export email templates for Outlook.
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
 `,A=`---
 id: gif-generator
 title: GIF Generator
@@ -881,7 +730,7 @@ A mobile app that uses the accelerometer of a device to play a Christmas song. S
 ![handbellHero_920_3.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510930401632-6HYBBTFJW4PGCU8OJFRJ/handbellHero_920_3.png)
 
 ![handebellHero9202.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510930442665-RR3LI96KXJHN6GHRPPJK/handebellHero9202.png)
-`,k=`---
+`,G=`---
 id: helvar
 title: Helvar
 subtitle: Working with an international lighting company to promote intelligent lighting systems.
@@ -917,7 +766,7 @@ Featured at Light + Building expo 2016.
 ![IMG_6144.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526417204259-MT3B5TS57GGCNNGO9V09/IMG_6144.JPG)
 
 ![IMG_6150.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526417208718-49WAAD9U6K1CQN489SMH/IMG_6150.JPG)
-`,G=`---
+`,k=`---
 id: instrument-1
 title: Instrument 1
 subtitle: Turning coloured squares into musical notes.
@@ -959,7 +808,7 @@ A Processing app that allows graphic designers quickly visualise dynamic animati
 ![Screen Shot 2016-03-30 at 12.05.57.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511101110077-8YN3DUCMFY40IVSU9OU8/Screen+Shot+2016-03-30+at+12.05.57.png)
 
 ![Screen Shot 2016-03-30 at 16.05.55.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511101141209-BJ8Z3SLPNCVCEUO6HTQC/Screen+Shot+2016-03-30+at+16.05.55.png)
-`,j=`---
+`,T=`---
 id: interrogation-ops-spyscape
 title: Interrogation Ops | SPYSCAPE
 subtitle: Twelve interrogation booths to test & teach deception skills.
@@ -988,7 +837,7 @@ Photo credit - Scott Frances for SPYSCAPE
 ![Untitled_Panorama6.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532878687773-6K5WOI6IRW5M4XAUSXVQ/Untitled_Panorama6.jpg)
 
 ![IMG_0712.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532878737281-ABL9KW9HSQGGHZNWLEN9/IMG_0712.jpg)
-`,T=`---
+`,E=`---
 id: keyshot
 title: Keyshot
 subtitle: Experiments with light & textures in Keyshot.
@@ -1032,7 +881,7 @@ Experiments with code, persistence of vision & long exposure photography.
 ![DSC01479.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526412707686-GJ8VYSUEI6G4WLYRO5RK/DSC01479.JPG)
 
 ![](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526412769406-CK6M88AGSA97TO15ZURD/image-asset.jpeg)
-`,E=`---
+`,D=`---
 id: light
 title: Light
 subtitle: 60 minute build of an adjustable light
@@ -1056,7 +905,7 @@ duration: 1 day
 ![IMG_9099.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540838089892-4LR67XU298QZE640FW63/IMG_9099.jpg)
 
 ![IMG_9100.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540838212940-EEWG191PANJL26BVTLZJ/IMG_9100.jpg)
-`,D=`---
+`,j=`---
 id: magic-wand
 title: Theme Park Wand
 subtitle: A device & system to help visitors navigate a theme park.
@@ -1103,7 +952,7 @@ duration: 2 weeks
 Magnetic behaviour between the user & objects.
 
 ![magnet_clip_small.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511538125705-A5PKYAU57JESDVFVMDYJ/magnet_clip_small.gif)
-`,L=`---
+`,B=`---
 id: markdown-features-demo
 title: Enhanced Markdown Features Demo
 subtitle: Showcase of all available markdown capabilities
@@ -1314,7 +1163,26 @@ The enhanced markdown features are optimized for:
 
 ---
 
-`,B=`---
+`,q=`---
+id: measurements
+title: Measurements
+subtitle: Annotate designs for handoff.
+description: Annotate designs for handoff.
+category: work
+tags: [Typescript, Figma Plugin]
+image: /images/measurements/cover.png
+featured: false
+liveUrl: https://www.figma.com/community/plugin/1571156498644155137/measurements
+liveUrlLabel: View plugin
+sourceUrl:
+completedAt: 2025-11-04
+duration: 1 day
+---
+
+# Measurements
+
+A Figma plugin to annotate designs for handoff.
+`,L=`---
 id: motion-study-1
 title: Motion Study #1
 subtitle: Robust RESTful API for online stores
@@ -1741,7 +1609,7 @@ export const metricsMiddleware = (req: Request, res: Response, next: NextFunctio
 
 ---
 
-`,q=`---
+`,R=`---
 id: notebooks
 title: Notebooks
 subtitle: Jupyter Notebooks prototypes for VS Code.
@@ -1750,8 +1618,8 @@ category: work
 tags: [Vue.js, VS Code, Prototyping]
 image: /images/notebooks/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl:
+sourceUrl:
 liveUrlLabel: Live Demo
 sourceUrlLabel: Source Code
 completedAt: 2020-09-06
@@ -1759,50 +1627,7 @@ duration: 1 week
 ---
 
 Jupyter Notebooks prototypes for VS Code.
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,R=`---
+`,J=`---
 id: objective-4x
 title: Objective 4x
 subtitle: A purpose built panning rig to film everyday objects through a microscope.
@@ -1838,7 +1663,7 @@ Music credit – The Shoes 'Submarine'
 ![IMG_5180.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526417592796-DHND8QFJQVFEBO8CP0YN/IMG_5180.JPG)
 
 ![IMG_4936.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1526417580370-W0P1XGJI48JMADPF3DJ3/IMG_4936.JPG)
-`,x=`---
+`,O=`---
 id: observer
 title: The Observer
 subtitle: A public access CCTV viewer exploring the social boundaries of surveillance.
@@ -1865,50 +1690,7 @@ Graduated with a 1st in Product Design BSc (Hons).
 
 - **[Wired](https://www.wired.co.uk/article/public-access-to-cctv-offered-by-the-observer)**
 - **[Yanko Design](http://www.yankodesign.com/2010/05/31/cctv-for-me/)**
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,O=`---
+`,U=`---
 id: particles
 title: Particles
 subtitle: Interacting with particles using a webcam & colour detection.
@@ -1928,7 +1710,7 @@ Interacting with particles using a webcam & colour detection.
 ![particle_clip_small.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511537771586-L13540ZEKLCFJ831L81U/particle_clip_small.gif)
 
 ![particle_clip_small.gif](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511537950436-2Z0S2ONGD7N23PGVQMW9/particle_clip_small.gif)
-`,J=`---
+`,N=`---
 id: pattern-tool-4
 title: Pattern Tool #4
 subtitle: Pattern generator for visual brand exploration.
@@ -1957,7 +1739,7 @@ Pattern generator for visual brand exploration of cloud computing.
 ![download (6).png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1586697614194-NPUJCH4T129DPJP4WEQI/download+%286%29.png)
 
 ![download (14).png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1586697609294-JUHFS1VVZAJLNNELFQ83/download+%2814%29.png)
-`,U=`---
+`,x=`---
 id: physical-onenote
 title: Physical OneNote
 subtitle: A concept for a household organisational product.
@@ -1983,7 +1765,7 @@ Created for the Microsoft hackathon, we concepted & pitched a low cost prototype
 
 ![](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510931514108-SUOATGO36G81KUMOFGI9/Physical+Onenote+Sample3-01.png)
 
-![physical onenote.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510931572461-60FB3Z0AGLWYDIVBGCC3/physical+onenote.jpg)`,N=`---
+![physical onenote.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510931572461-60FB3Z0AGLWYDIVBGCC3/physical+onenote.jpg)`,W=`---
 id: presence
 title: Presence
 subtitle: IoT devices to communicate social availability in physical space
@@ -2053,7 +1835,7 @@ Device configuration tool
 ![IMG_7332.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1646733559989-G0825IS6ZTTGCDKZMPTH/IMG_7332.JPG)
 
 ![IMG_7354.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1646733576639-OY4L6BWHSQBBL3X2EMD3/IMG_7354.JPG)
-- **[Adafruit Huzzah32 Feather development boards](https://www.adafruit.com/product/3405)**`,W=`---
+- **[Adafruit Huzzah32 Feather development boards](https://www.adafruit.com/product/3405)**`,H=`---
 id: protopie
 title: ProtoPie
 subtitle: Learning a new prototyping tool.
@@ -2075,7 +1857,7 @@ Learning a new prototyping tool.
 
 ![](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/7b605400-4c29-4181-852f-99e7bed71e8b/protopie_docking_demo.gif)
 
-![](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/9a994d08-1d5a-41e5-8a1c-3044070c7caa/protopie_nesting_demo.gif)`,H=`---
+![](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/9a994d08-1d5a-41e5-8a1c-3044070c7caa/protopie_nesting_demo.gif)`,Y=`---
 id: real-time-clock
 title: Real Time Clock
 subtitle: Add live time & date information to any design, presentation, or prototype.
@@ -2084,7 +1866,7 @@ category: work
 tags: [Typescript, Figma Plugin]
 image: /images/real-time-clock/cover.png
 featured: false
-liveUrl: https://example.com
+liveUrl: https://www.figma.com/community/plugin/1240676288333155961/real-time-clock
 sourceUrl: 
 liveUrlLabel: View plugin
 completedAt: 2025-09-04
@@ -2094,52 +1876,7 @@ duration: 1 week
 # Real Time Clock
 
 A Figma plugin to add live time & date information to any design, presentation, or prototype.
-
-![Project Screenshot](/images/simple-template.svg)
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,Y=`---
+`,V=`---
 id: rfid-rings
 title: RFID Rings
 subtitle: Concepts for integrating RFID tags into jewellery.
@@ -2164,7 +1901,7 @@ Repurposing injectable RFID trackers for animals as the gemstone in rings.
 ![IMG_2761.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511541067916-MO2MPBVLWX7GN301SE16/IMG_2761.JPG)
 
 ![IMG_2763.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511541021145-2ZIIZJBBLMM16JSKJM61/IMG_2763.JPG)
-`,V=`---
+`,Q=`---
 id: rfid-spyscape
 title: RFID Readers
 subtitle: RFID readers that track visitors throughout SPYSCAPE museum.
@@ -2208,8 +1945,9 @@ category: work
 tags: [Typescript, Figma Plugin, Iconography, macOS, iOS]
 image: /images/sf-symbols/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl: https://www.figma.com/community/plugin/1207724751253683840/sf-symbol-creator
+liveUrlLabel: View plugin
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---
@@ -2217,52 +1955,7 @@ duration: 1 week
 # SF Symbol Creator
 
 A Figma plugin to preview & export SF Symbols 3.0 for macOS & iOS.
-
-![Project Screenshot](/images/simple-template.svg)
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,Q=`---
+`,Z=`---
 id: skew
 title: Skew
 subtitle: A Figma plugin to skew layers up to ±90° in each axis
@@ -2284,41 +1977,10 @@ A Figma plugin to skew layers up to ±90° in each axis.
 
 ![Plugin UI](/images/skew/plugin-ui.png)
 
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
 ## Links
 
 - [Install Skew Figma plugin](https://www.figma.com/community/plugin/1219749104610050886/skew)
-`,Z=`---
+`,X=`---
 id: slug-and-chip
 title: Slug & Chip
 subtitle: SALT. Chips love it, slugs hate it.
@@ -2327,8 +1989,8 @@ category: experiments
 tags: [MakeCode, Game]
 image: /images/slug-and-chip/cover.gif
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl:
+sourceUrl:
 liveUrlLabel: Play the game
 sourceUrlLabel: Source Code
 completedAt: 2020-09-01
@@ -2344,52 +2006,7 @@ Use the arrows to help Chip mop up the salt. Hold A and use the arrows to help s
 But be careful - nobody likes an overly salted chip. And everyone hates a slimy one.
 
 My submission for the 2020 Developer Division GameJam.
-
-![Project Screenshot](/images/simple-template.svg)
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,X=`---
+`,z=`---
 id: social-radio
 title: Social Radio
 subtitle: Prototyping a speaker THAT TUNES INTO OTHER PEOPLES PLAYLISTS.
@@ -2431,7 +2048,7 @@ A prototype speaker that interfaces with a web app which collects, arranges & co
 ![IMG_20111117_170254.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540911756914-8ZSNDOFKB2R0DJRVQBQ1/IMG_20111117_170254.jpg)
 
 ![WP_000026 (1).jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540911768704-10Y9CDYCRVU9HD7S5PYS/WP_000026+%281%29.jpg)
-`,z=`---
+`,$=`---
 id: spring-table
 title: Spring Table
 subtitle: A pop-up restaurant & app to promote the Nokia Lumia 800.
@@ -2493,7 +2110,7 @@ Tom Dixon
 ![IMG_1204 (1).jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1533094822765-SKB2P25NFDX4V403JB2R/IMG_1204+%281%29.jpg)
 - **[MOST exhibition](https://www.tomdixon.net/eu/story/post/milan-most-2012)**
 - **[Stevie Parle](https://en.wikipedia.org/wiki/Stevie_Parle)**
-- **[Dock Kitchen](https://www.tomdixon.net/en/story/post/dock-kitchen)**`,$=`---
+- **[Dock Kitchen](https://www.tomdixon.net/en/story/post/dock-kitchen)**`,ee=`---
 id: spyscape-special-ops
 title: Special Ops | SPYSCAPE
 subtitle: Four unique laser tunnels to test agility & risk taking
@@ -2519,7 +2136,7 @@ For the SPYSCAPE NY museum, we designed, developed & commissioned the Special Op
 ![SPYSCAPE--MargaretLin-4.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532876251138-ZEDK9D1EA2ZIDC7SU1H9/SPYSCAPE--MargaretLin-4.jpg)
 
 ![SPYSCAPE--MargaretLin-6.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532876264416-6CFTKFHT764ZBU54JO69/SPYSCAPE--MargaretLin-6.jpg)
-`,ee=`---
+`,ne=`---
 id: spyscape
 title: SPYSCAPE
 subtitle: Contemporary interactive spy museum & experience
@@ -2599,7 +2216,7 @@ Colbert Report (video)
 - **[CNN](https://edition.cnn.com/travel/article/new-york-city-spy-museum/index.html)**
 - **[Wallpaper*](https://www.wallpaper.com/architecture/david-adjaye-spyscape-museum-opens-in-new-york)**
 - **[- **Dezeen**](https://www.dezeen.com/2018/02/16/spyscape-museum-david-adjaye-opens-midtown-manhattan-new-york-city/)**
-- **[Colbert Report (video)](https://www.youtube.com/watch?v=Hm3vtZlC8a4)**`,ne=`---
+- **[Colbert Report (video)](https://www.youtube.com/watch?v=Hm3vtZlC8a4)**`,te=`---
 id: status-board
 title: Status Board
 subtitle: An ambient display SYSTEM to surface GLANCEABLE information in studio environments
@@ -2644,7 +2261,7 @@ Original UI.
 - **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702896293575-TL7P5JQV6A34U3IMSJEM/Screenshot%2B2022-03-04%2Bat%2B10.32.51.jpg)**
 - **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702896360904-AQNI5WKOQ56CEQRNKDCR/Screenshot%2B2022-03-04%2Bat%2B10.33.01.jpg)**
 - **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702896423086-CFEVI8YS1Q5H32Q0TUGD/Screenshot%2B2022-03-04%2Bat%2B11.14.59.jpg)**
-- **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702896534888-CV9NKPL56NZK6MNBF39W/Screenshot%252B2022-03-04%252Bat%252B11.19.23.jpg)**`,te=`---
+- **[View fullsize](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702896534888-CV9NKPL56NZK6MNBF39W/Screenshot%252B2022-03-04%252Bat%252B11.19.23.jpg)**`,ae=`---
 id: storymaker-storyteller-portfolio
 title: Storymaker Storyteller
 subtitle: A pair of devices that record stories to be relived by future generations.
@@ -2701,7 +2318,7 @@ here
 
 ![STORYMAKER STORYTELLER 3.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511104643837-9Z2CKWQT05QMRMQ6SUG7/STORYMAKER+STORYTELLER+3.jpg)
 - **[here](https://www.amazon.co.uk/Technologies-Synthesis-Assistive-Rehabilitative-Health-Preserving/dp/1627053174)**
-- **[here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Social20digital20objects20for20Grandparents20-20Pullin20Banks.pdf)**`,ae=`---
+- **[here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Social20digital20objects20for20Grandparents20-20Pullin20Banks.pdf)**`,oe=`---
 id: storymaker-storyteller
 title: Storymaker, Storyteller
 subtitle: A pair of connected devices that record stories to be relived by future generations.
@@ -2744,7 +2361,7 @@ Storymaker, Storyteller applies digital recording and communication to encourage
 
 - [Designed Technologies for Healthy Aging](https://www.amazon.co.uk/Technologies-Synthesis-Assistive-Rehabilitative-Health-Preserving/dp/1627053174)
 - [Social Digital Objects for Grandparents](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Social20digital20objects20for20Grandparents20-20Pullin20Banks.pdf)
-`,oe=`---
+`,se=`---
 id: surveillance-ops-spyscape
 title: Surveillance Ops | SPYSCAPE
 subtitle: Fifteen voice controlled stations to test observation skills under pressure
@@ -2776,7 +2393,7 @@ Photo credit - Scott Frances for SPYSCAPE
 ![SPYSCAPE--MargaretLin-8.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532877809317-9KKPGO9SQ7DBW41XMQTW/SPYSCAPE--MargaretLin-8.jpg)
 
 ![Copy of _DSF9933.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1532879396363-KML9SNDPY8M4QUHZ4ZLL/Copy+of+_DSF9933.jpg)
-`,se=`---
+`,ie=`---
 id: swisscom
 title: Swisscom
 subtitle: An all-in-one tool to develop the site menu across multiple screen sizes for swisscom.ch
@@ -2810,7 +2427,7 @@ Swisscom website
 ![Screen Shot 2017-11-24 at 14.54.58.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511536220809-GP6AFCLHW699W2ZQGC46/Screen+Shot+2017-11-24+at+14.54.58.png)
 
 ![Screen Shot 2017-11-24 at 15.11.01.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511536302571-6MQ0GJJWCAZJBUXHID1Q/Screen+Shot+2017-11-24+at+15.11.01.png)
-- **[Swisscom website](https://www.swisscom.ch/en/about.html)**`,ie=`---
+- **[Swisscom website](https://www.swisscom.ch/en/about.html)**`,re=`---
 id: switchboard
 title: Switchboard
 subtitle: A light switch mounted whiteboard for the home.
@@ -2834,7 +2451,7 @@ A light switch mounted whiteboard for the home.
 ![IMG_4675.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511538822080-5ICTSGXFLVIQ24LF5Q6J/IMG_4675.JPG)
 
 ![IMG_4675.JPG](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1511538763292-39B5OD89AWJZY86MKYBZ/IMG_4675.JPG)
-`,re=`---
+`,ce=`---
 id: syntax-highlighter
 title: Syntax Highlighter
 subtitle: Apply syntax highlighting colors to code snippets.
@@ -2843,8 +2460,9 @@ category: work
 tags: [Typescript, Figma Plugin]
 image: /images/syntax-highlighter/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl: https://www.figma.com/community/plugin/1501618054982385752/syntax-highlighter
+liveUrlLabel: View plugin
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---
@@ -2852,52 +2470,7 @@ duration: 1 week
 # Syntax Highlighter
 
 A Figma plugin to apply syntax highlighting colors to code snippets.
-
-![Project Screenshot](/images/simple-template.svg)
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,ce=`---
+`,pe=`---
 id: teacake
 title: Teacake
 subtitle: A tool to record mobile device interactions.
@@ -2937,7 +2510,7 @@ OpenFrameworks
 ![WP_000454.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510935376509-12F3D0JLJCUEIDI761I1/WP_000454.jpg)
 
 ![Teacake Vision.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1510935438037-NJPMNFKCAS8LHLMHAUBI/Teacake+Vision.jpg)
-- **[OpenFrameworks](https://openframeworks.cc)**`,pe=`---
+- **[OpenFrameworks](https://openframeworks.cc)**`,le=`---
 id: test-callouts
 title: Enhanced Markdown Test
 subtitle: Testing all advanced markdown features
@@ -3059,7 +2632,7 @@ Here's a sentence with a footnote[^1]. You can have multiple footnotes[^2] in yo
 
 ---
 
-**All features tested!** The enhanced markdown system provides rich formatting capabilities for documentation.`,le=`---
+**All features tested!** The enhanced markdown system provides rich formatting capabilities for documentation.`,de=`---
 id: the-alarming-clock
 title: The Alarming Clock
 subtitle: A hand crafted timepiece to improve sleep.
@@ -3101,7 +2674,7 @@ Winner, Not on the High Street Awards, 2015.
 ![IMG_0582.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540835240282-RE5SNNQ2VMHFR4MGBO3F/IMG_0582.jpg)
 
 ![IMG_0505.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540844619831-9B0B8GI79VEQU162QM1F/IMG_0505.jpg)
-`,de=`---
+`,ge=`---
 id: theme-importer
 title: Theme Importer
 subtitle: Generate Figma variables from popular VS Code themes.
@@ -3110,8 +2683,9 @@ category: work
 tags: [Typescript, Design System, Figma Plugin]
 image: /images/theme-importer/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl: https://www.figma.com/community/plugin/736060893363678891/theme-importer-for-visual-studio-code
+liveUrlLabel: View plugin
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---
@@ -3119,52 +2693,7 @@ duration: 1 week
 # Theme Importer
 
 A Figma plugin to import variables from popular VS Code themes.
-
-![Project Screenshot](/images/simple-template.svg)
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,ge=`---
+`,me=`---
 id: top-hat
 title: TopHat
 subtitle: An experiment to generate repeating patterns using the TopHat Logo
@@ -3199,7 +2728,7 @@ The tool was created & presented during a client meeting to show ability to rapi
 ![Screenshot+2023-12-18+at+11.08.49.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702898096442-5W4ABKOINTYUWUZD5O9X/Screenshot%2B2023-12-18%2Bat%2B11.08.49.jpg)
 
 ![Screenshot+2023-12-18+at+11.08.57.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1702898114638-KS27PAWFP7TUDDAMDBYG/Screenshot%2B2023-12-18%2Bat%2B11.08.57.jpg)
-`,me=`---
+`,ue=`---
 id: toroid
 title: Toroid
 category: Experiments
@@ -3218,7 +2747,7 @@ A quick P5.js sketch.
 ![experiment2.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1739882797552-FCICDQATOMG8TSFXMG2W/experiment2.png)
 
 ![myCanvas.png](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1739882798481-ZVMKDH1D2NT3VXC07LRT/myCanvas.png)
-`,ue=`---
+`,he=`---
 id: universal-compass
 title: Universal Compass
 subtitle: A device that shows you where you want to go.
@@ -3251,7 +2780,7 @@ An Android app & bluetooth device with in-built compass that allows users to se
 ![IMG_0056.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540838362656-60JAOJNTNE3V5UXJUYCE/IMG_0056.jpg)
 
 ![IMG_0078.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540838451915-8T17E0RCDDVM19HATG4U/IMG_0078.jpg)
-`,he=`---
+`,fe=`---
 id: vitra
 title: Vitra Design Museum
 subtitle: Companion app for the Alvar Aalto exhibition at the Vitra Museum, Basel.
@@ -3290,7 +2819,7 @@ The technology helped track the visitors’ interaction and as a result, a great
 ![20_Lumia@_Vitra_MuseumSmall.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1678271707322-30M5Q6Q9QHLYHB0B7RDG/20_Lumia%40_Vitra_MuseumSmall.jpg)
 
 ![IMG_3080.jpg](https://images.squarespace-cdn.com/content/v1/5a0ea923f9a61ec9b5f954f2/1540837568043-7O7YAC2561BIIST1QGRZ/IMG_3080.jpg)
-`,fe=`---
+`,be=`---
 id: vs-code-codicons
 title: VS Code Codicons
 subtitle: Browse & copy VS Code icons.
@@ -3299,8 +2828,9 @@ category: work
 tags: [Typescript, Figma Plugin, Iconography, VS Code]
 image: /images/codicons/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl: https://www.figma.com/community/plugin/786075219184960694/visual-studio-code-icons
+liveUrlLabel: View plugin
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---
@@ -3310,50 +2840,7 @@ duration: 1 week
 A Figma plugin to browse & copy the latest VS Code icons.
 
 ![Project Screenshot](/images/codicons/cover.png)
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,be=`---
+`,we=`---
 id: wearable-gestures
 title: Wearable gestures
 subtitle: Exploring & understanding wearable based wrist gestures.
@@ -3422,51 +2909,6 @@ duration: 1 week
 # Weather Station
 
 A weather display for sailors at the Lake MacQuarie Yacht Club. Realtime data from the Australian Government Bureau of Meteorology.
-
-![Project Screenshot](/images/simple-template.svg)
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
 `,ve=`---
 id: word-clouds
 title: Word Clouds
@@ -3476,8 +2918,9 @@ category: work
 tags: [Typescript, Figma Plugin]
 image: /images/word-cloud/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl: https://www.figma.com/community/plugin/1224737600819948835/word-clouds
+liveUrlLabel: View plugin
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---
@@ -3485,49 +2928,4 @@ duration: 1 week
 # Word Clouds
 
 A Figma plugin to generate editable word clouds from text.
-
-![Project Screenshot](/images/simple-template.svg)
-
-## Overview
-
-Quick overview of what the project does and why it's valuable.
-
-### Key Features
-
-- **Feature 1**: Main functionality
-- **Feature 2**: Secondary functionality
-- **Feature 3**: Additional features
-
-## Context
-
-### Problem
-
-- Description of the problem being solved
-
-### Solution
-
-Key technical implementation details:
-
-\`\`\`typescript
-// Main code example
-export const mainFunction = () => {
-  // Implementation
-}
-\`\`\`
-
-## Impact
-
-- Metric 1: Achievement
-- Metric 2: Another result
-- User feedback summary
-  
-## Learnings
-
-**Learning 1**: Lessons learned from the project
-**Learning 2**: Additional insights gained
-
-## Links
-
-- **Live Demo**: [project.com](https://example.com)
-- **Source Code**: [github.com/username/project](https://github.com/username/project)
-`,we={activity:e,aether:n,"chat-bot":t,"smart-speaker":a,beacons:o,"bird-fm":s,boxnet:i,"breaking-news":r,carbon:c,"cinema-poster":p,"cities-unlocked":l,"color-mapper":d,"colour-detection":g,concrete:m,"crit-card":u,datacatcher:h,"debrief-spyscape":f,"drawing-robot":b,elatus:y,"encryption-ops-spyscape":v,"figma-ui-toolkit":w,figmail:S,"gif-generator":A,gift:M,"google-play":P,"handbell-hero":I,helvar:k,"instrument-1":G,"intell-wonderwall":_,"interrogation-ops-spyscape":j,keyshot:T,"light-painting":C,light:E,"magic-wand":D,magnetism:F,"markdown-features-demo":L,"motion-study-1":B,notebooks:q,"objective-4x":R,observer:x,particles:O,"pattern-tool-4":J,"physical-onenote":U,presence:N,protopie:W,"real-time-clock":H,"rfid-rings":Y,"rfid-spyscape":V,"sf-symbol-creator":K,skew:Q,"slug-and-chip":Z,"social-radio":X,"spring-table":z,"spyscape-special-ops":$,spyscape:ee,"status-board":ne,"storymaker-storyteller-portfolio":te,"storymaker-storyteller":ae,"surveillance-ops-spyscape":oe,swisscom:se,switchboard:ie,"syntax-highlighter":re,teacake:ce,"test-callouts":pe,"the-alarming-clock":le,"theme-importer":de,"top-hat":ge,toroid:me,"universal-compass":ue,vitra:he,"vs-code-codicons":fe,"wearable-gestures":be,"weather-station":ye,"word-clouds":ve};export{we as MARKDOWN_CONTENT};
+`,Se={activity:e,aether:n,"chat-bot":t,"smart-speaker":a,beacons:o,"bird-fm":s,boxnet:i,"breaking-news":r,carbon:c,"cinema-poster":p,"cities-unlocked":l,"color-mapper":d,"colour-detection":g,concrete:m,"crit-card":u,datacatcher:h,"debrief-spyscape":f,"drawing-robot":b,elatus:w,"encryption-ops-spyscape":y,"figma-ui-toolkit":v,figmail:S,"gif-generator":A,gift:M,"google-play":P,"handbell-hero":I,helvar:G,"instrument-1":k,"intell-wonderwall":_,"interrogation-ops-spyscape":T,keyshot:E,"light-painting":C,light:D,"magic-wand":j,magnetism:F,"markdown-features-demo":B,measurements:q,"motion-study-1":L,notebooks:R,"objective-4x":J,observer:O,particles:U,"pattern-tool-4":N,"physical-onenote":x,presence:W,protopie:H,"real-time-clock":Y,"rfid-rings":V,"rfid-spyscape":Q,"sf-symbol-creator":K,skew:Z,"slug-and-chip":X,"social-radio":z,"spring-table":$,"spyscape-special-ops":ee,spyscape:ne,"status-board":te,"storymaker-storyteller-portfolio":ae,"storymaker-storyteller":oe,"surveillance-ops-spyscape":se,swisscom:ie,switchboard:re,"syntax-highlighter":ce,teacake:pe,"test-callouts":le,"the-alarming-clock":de,"theme-importer":ge,"top-hat":me,toroid:ue,"universal-compass":he,vitra:fe,"vs-code-codicons":be,"wearable-gestures":we,"weather-station":ye,"word-clouds":ve};export{Se as MARKDOWN_CONTENT};
