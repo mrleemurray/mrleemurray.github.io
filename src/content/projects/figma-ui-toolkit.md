@@ -7,8 +7,8 @@ category: work
 tags: [Web Components, Toolkit, Figma]
 image: /images/figma-ui-toolkit/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl:
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---

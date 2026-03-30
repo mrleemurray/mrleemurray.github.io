@@ -35,6 +35,7 @@ export const PROJECT_REGISTRY = [
   'light-painting',
   'magic-wand',
   'magnetism',
+  'measurements',
   'motion-study-1',
   'notebooks',
   'objective-4x',

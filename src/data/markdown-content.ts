@@ -73,7 +73,6 @@ import universalCompassMd from '../content/projects/universal-compass.md?raw'
 import vitraMd from '../content/projects/vitra.md?raw'
 import vsCodeCodiconsMd from '../content/projects/vs-code-codicons.md?raw'
 import wearableGesturesMd from '../content/projects/wearable-gestures.md?raw'
-import weatherStationPortfolioMd from '../content/projects/weather-station-portfolio.md?raw'
 import weatherStationMd from '../content/projects/weather-station.md?raw'
 import wordCloudsMd from '../content/projects/word-clouds.md?raw'
 
@@ -150,7 +149,6 @@ export const MARKDOWN_CONTENT: Record<string, string> = {
   'vitra': vitraMd,
   'vs-code-codicons': vsCodeCodiconsMd,
   'wearable-gestures': wearableGesturesMd,
-  'weather-station-portfolio': weatherStationPortfolioMd,
   'weather-station': weatherStationMd,
   'word-clouds': wordCloudsMd
 }

@@ -7,8 +7,9 @@ category: work
 tags: [Typescript, Design System, Figma Plugin]
 image: /images/theme-importer/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl: https://www.figma.com/community/plugin/736060893363678891/theme-importer-for-visual-studio-code
+liveUrlLabel: View plugin
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---

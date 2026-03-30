@@ -7,8 +7,9 @@ category: work
 tags: [Typescript, Figma Plugin]
 image: /images/syntax-highlighter/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl: https://www.figma.com/community/plugin/1501618054982385752/syntax-highlighter
+liveUrlLabel: View plugin
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---

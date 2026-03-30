@@ -7,8 +7,7 @@ category: work
 tags: [Hackathon, CAD, Hardware, Open Source, .net]
 image: /images/aether/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+sourceUrl: https://github.com/mrleemurray/aether
 completedAt: 2022-09-04
 duration: 1 week
 ---

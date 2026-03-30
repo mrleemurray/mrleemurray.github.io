@@ -7,8 +7,8 @@ category: work
 tags: [Typescript, Figma Plugin, Outlook, MJML]
 image: /images/figmail/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl:
+sourceUrl:
 completedAt: 2020-09-04
 duration: 1 week
 ---

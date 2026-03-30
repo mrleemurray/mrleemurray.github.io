@@ -7,7 +7,7 @@ category: work
 tags: [Typescript, Figma Plugin]
 image: /images/real-time-clock/cover.png
 featured: false
-liveUrl: https://example.com
+liveUrl: https://www.figma.com/community/plugin/1240676288333155961/real-time-clock
 sourceUrl: 
 liveUrlLabel: View plugin
 completedAt: 2025-09-04

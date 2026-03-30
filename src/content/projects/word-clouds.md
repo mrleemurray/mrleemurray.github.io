@@ -7,8 +7,9 @@ category: work
 tags: [Typescript, Figma Plugin]
 image: /images/word-cloud/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl: https://www.figma.com/community/plugin/1224737600819948835/word-clouds
+liveUrlLabel: View plugin
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---

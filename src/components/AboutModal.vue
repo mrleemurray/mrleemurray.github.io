@@ -50,7 +50,7 @@
               <div class="contact-method">
                 <div class="contact-details">
                   <h3>LinkedIn</h3>
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.linkedin.com/in/lee-murray-3a9a7b1b/" target="_blank" rel="noopener noreferrer">
                     Connect with me on LinkedIn
                   </a>
                 </div>
@@ -59,7 +59,7 @@
               <div class="contact-method">
                 <div class="contact-details">
                   <h3>GitHub</h3>
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/mrleemurray" target="_blank" rel="noopener noreferrer">
                     View my code on GitHub
                   </a>
                 </div>
@@ -68,7 +68,7 @@
               <div class="contact-method">
                 <div class="contact-details">
                   <h3>Figma</h3>
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.figma.com/@mrleemurray" target="_blank" rel="noopener noreferrer">
                     View my Figma profile
                   </a>
                 </div>

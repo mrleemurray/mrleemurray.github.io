@@ -7,8 +7,8 @@ category: work
 tags: [Vue.js, VS Code, Prototyping]
 image: /images/notebooks/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl:
+sourceUrl:
 liveUrlLabel: Live Demo
 sourceUrlLabel: Source Code
 completedAt: 2020-09-06

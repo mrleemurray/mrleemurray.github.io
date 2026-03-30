@@ -7,8 +7,9 @@ category: work
 tags: [Typescript, Figma Plugin, Iconography, macOS, iOS]
 image: /images/sf-symbols/cover.png
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl: https://www.figma.com/community/plugin/1207724751253683840/sf-symbol-creator
+liveUrlLabel: View plugin
+sourceUrl:
 completedAt: 2025-09-04
 duration: 1 week
 ---

@@ -7,8 +7,8 @@ category: experiments
 tags: [MakeCode, Game]
 image: /images/slug-and-chip/cover.gif
 featured: false
-liveUrl: https://example.com
-sourceUrl: https://github.com/username/project
+liveUrl:
+sourceUrl:
 liveUrlLabel: Play the game
 sourceUrlLabel: Source Code
 completedAt: 2020-09-01
